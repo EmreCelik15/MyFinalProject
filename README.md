@@ -14,6 +14,8 @@ Bu repo, çok katmanlı mimari yapısı kullanılarak oluşturulmuş bir DotNetC
 * Performance
 * RestfulApi
 * ObjectOrientedProgramming
+* CleanCode
+* DependencyInjection
 
 ## Getting Started
 Oluşturulan bir Api üzerinden veritabanı üzerinde işlemler yapmamızı sağlayan projedir.Bu işlemler şunlardır:
@@ -24,6 +26,11 @@ Oluşturulan bir Api üzerinden veritabanı üzerinde işlemler yapmamızı sağ
 
 Bu projede veritabanı ile nesnelerimiz arasındaki ilişkiyi kurabilmek için EntityFramework kullanılmıştır.
 Doğrulama işlemeleri için FluentValidation kütüphanesi kullanılmıştır.
+Yetkilendirme işlemleri yapılmıştır.
+Caching işlemleri yapılmıştır.
+Performans yönetimi yapılmıştır.
+Oluşturulacak olan nesnelerin yaşam döngüsünün yönetilmesi için Autofac kullanılmıştır.
+
 
 
 
