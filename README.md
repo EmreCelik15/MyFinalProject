@@ -16,6 +16,7 @@ Bu repo, çok katmanlı mimari yapısı kullanılarak oluşturulmuş bir DotNetC
 * ObjectOrientedProgramming
 * CleanCode
 * DependencyInjection
+* HttpRequest
 
 ## Getting Started
 Oluşturulan bir Api üzerinden veritabanı üzerinde işlemler yapmamızı sağlayan projedir.Bu işlemler şunlardır:
