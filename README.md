@@ -1,5 +1,6 @@
 # MyFinalProject - DotNetCoreBackend
-Bu repo, çok katmanlı mimariri yapısı kullanılarak oluşturulmuş bir DotNetCore projesidir.
+Bu repo, çok katmanlı mimari yapısı kullanılarak oluşturulmuş bir DotNetCore projesidir.
+
 ![DotNetCore](https://media.proglib.io/wp-uploads/2018/01/image.png)
 
 ## Modeller:
@@ -16,10 +17,10 @@ Bu repo, çok katmanlı mimariri yapısı kullanılarak oluşturulmuş bir DotNe
 
 ## Getting Started
 Oluşturulan bir Api üzerinden veritabanı üzerinde işlemler yapmamızı sağlayan projedir.Bu işlemler şunlardır:
- -Veritabanına ürün ekleme,silme
- -Mevcut olan ürün biligilerini güncelleme
- -Mevcut olan ürünleri listeleme
- -Ürünleri id numarasını göre çağırma.
+ * Veritabanına ürün ekleme,silme
+ * Mevcut olan ürün biligilerini güncelleme
+ * Mevcut olan ürünleri listeleme
+ * Ürünleri id numarasını göre çağırma.
 
 Bu projede veritabanı ile nesnelerimiz arasındaki ilişkiyi kurabilmek için EntityFramework kullanılmıştır.
 Doğrulama işlemeleri için FluentValidation kütüphanesi kullanılmıştır.
