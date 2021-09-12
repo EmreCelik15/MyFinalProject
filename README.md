@@ -3,7 +3,7 @@ Bu repo, çok katmanlı mimari yapısı kullanılarak oluşturulmuş bir DotNetC
 
 ![DotNetCore](https://media.proglib.io/wp-uploads/2018/01/image.png)
 
-## Modeller:
+## Models:
 * C#
 * EntityFramework
 * Autofac
@@ -24,7 +24,7 @@ Oluşturulan bir Api üzerinden veritabanı üzerinde işlemler yapmamızı sağ
  * Mevcut olan ürün biligilerini güncelleme
  * Mevcut olan ürünleri listeleme
  * Ürünleri id numarasını göre çağırma.
-## Proje Detayları
+## Project Details
 * Bu projede veritabanı ile nesnelerimiz arasındaki ilişkiyi kurabilmek için EntityFramework kullanılmıştır.
 * Doğrulama işlemeleri için FluentValidation kütüphanesi kullanılmıştır.
 * Yetkilendirme işlemleri yapılmıştır.
